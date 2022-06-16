@@ -380,8 +380,8 @@
   "power.medievalorigins.troll/thunderous_stride.name": "Thunderous Stride",
   "power.medievalorigins.troll/thunderous_stride.description": "Trolls walk with purpose. Should they persist long enough, they can walk straight through any obstacle which may cross their path.",
 
-  "power.medievalorigins.werewolf/carnivore.name": "Carnivore",
-  "power.medievalorigins.werewolf/carnivore.description": "Werewolves eat like a wolf, even when not transformed. The only food they can eat is meat.",
+  "power.medievalorigins.werewolf/carnivore_werewolf.name": "Carnivore",
+  "power.medievalorigins.werewolf/carnivore_werewolf.description": "Werewolves eat like a wolf, even when not transformed. The only food they can eat is meat.",
 
   "power.medievalorigins.werewolf/drained.name": "Drained",
   "power.medievalorigins.werewolf/drained.description": "Increased prowess at night does, unfortunately, come with consequences. In daytime your health and strength are reduced.",
