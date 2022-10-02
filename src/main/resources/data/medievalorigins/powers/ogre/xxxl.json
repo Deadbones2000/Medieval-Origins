@@ -1,71 +1,31 @@
 {
 	"type": "origins:restrict_armor",
 	"head": {
-		"type": "origins:or",
-		"conditions": [{
-				"type": "origins:ingredient",
-				"ingredient": {
-					"item": "minecraft:leather_helmet"
-				}
-			},
-			{
-				"type": "origins:ingredient",
-				"ingredient": {
-					"item": "minecraft:chainmail_helmet"
-				}
-			}
-		],
+		"type": "origins:ingredient",
+		"ingredient": {
+			"tag": "medievalorigins:ogre_armour"
+		},
 		"inverted": true
 	},
 	"chest": {
-		"type": "origins:or",
-		"conditions": [{
-				"type": "origins:ingredient",
-				"ingredient": {
-					"item": "minecraft:leather_chestplate"
-				}
-			},
-			{
-				"type": "origins:ingredient",
-				"ingredient": {
-					"item": "minecraft:chainmail_chestplate"
-				}
-			}
-		],
+		"type": "origins:ingredient",
+		"ingredient": {
+			"tag": "medievalorigins:ogre_armour"
+		},
 		"inverted": true
 	},
 	"legs": {
-		"type": "origins:or",
-		"conditions": [{
-				"type": "origins:ingredient",
-				"ingredient": {
-					"item": "minecraft:leather_leggings"
-				}
-			},
-			{
-				"type": "origins:ingredient",
-				"ingredient": {
-					"item": "minecraft:chainmail_leggings"
-				}
-			}
-		],
+		"type": "origins:ingredient",
+		"ingredient": {
+			"tag": "medievalorigins:ogre_armour"
+		},
 		"inverted": true
 	},
 	"feet": {
-		"type": "origins:or",
-		"conditions": [{
-				"type": "origins:ingredient",
-				"ingredient": {
-					"item": "minecraft:leather_boots"
-				}
-			},
-			{
-				"type": "origins:ingredient",
-				"ingredient": {
-					"item": "minecraft:chainmail_boots"
-				}
-			}
-		],
+		"type": "origins:ingredient",
+		"ingredient": {
+			"tag": "medievalorigins:ogre_armour"
+		},
 		"inverted": true
 	}
 }
